@@ -14,7 +14,7 @@
 | [Average Sensitivity](https://github.com/Anchen-AI4Math/average-sensitivity-lean) | 多项式阈值函数平均敏感度与 Lean 证明 |
 | [Prove2Me Workspace](https://github.com/Anchen-AI4Math/prove2me_workspace) | 多课题研究、共享 Lean/Mathlib 环境与状态文档 |
 | [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | p ≥ 21 的计算机辅助证明预印本；[完整 Lean / 平台证明通过，零开放依赖](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md)；[正式 mission / campaign 认证 21](https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8) |
-| [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | Máthé 2007 天使力量 2 必胜定理的 Lean 形式化；[约化行程引理获平台验证，主定理未完成](https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md) |
+| [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | Máthé 2007 天使力量 2 必胜定理的 Lean 形式化；[Nice Devil 困住归约获平台验证，主定理未完成](https://github.com/Anchen-AI4Math/angel-devil/blob/main/status.md) |
 
 ## 研究方向
 
