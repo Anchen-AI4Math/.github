@@ -18,7 +18,7 @@
 
 ## 研究方向
 
-- 数论与分析：无理性、特殊常数、素数与多项式。 [奇数素数和 campaign：21 已认证、证明通过](https://prove2.me/missions/949b9301-86ab-438d-8b33-5acc29e21fa6)，目标 3 继续开放。
+- 数论与分析：无理性、特殊常数、素数与多项式。 [奇数素数和 campaign：19 已认证、证明通过](https://prove2.me/missions/276f36e4-c119-430a-8ba3-94ec566f6249)，目标 3 继续开放。
 - 组合数学与概率：幻方、离散结构与概率模型。
 - 算法与复杂度：3SUM、近似算法与平均敏感度。
 - 安全与隐私：[网络巡检博弈与差分隐私下界的已完成形式化](https://github.com/Anchen-AI4Math/research-index#prove2me-公开贡献)。
