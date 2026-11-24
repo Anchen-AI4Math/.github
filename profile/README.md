@@ -16,6 +16,10 @@
 | [Sharp diagonal Hlawka](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates) | p ≥ 21 的计算机辅助证明预印本；[完整 Lean / 平台证明通过，零开放依赖](https://github.com/Anchen-AI4Math/hlawka-diagonal-certificates/blob/main/formalization/README.md)；[正式 mission / campaign 认证 21](https://prove2.me/missions/8e2bd9f5-57b1-4d55-aab4-a94532a6d6b8) |
 | [Angel–Devil](https://github.com/Anchen-AI4Math/angel-devil) | 标准 Devil 下的整数力量完整分类：1 阶必败、p≥2 必胜；[Lean 与平台验证完成，开放叶子 0](https://github.com/Anchen-AI4Math/angel-devil/blob/main/verification/classification-audit.md) · [统一 mission：分类 Proved，4/4 里程碑完成](https://prove2.me/missions/Angel-Devil%3A_Complete_Integer-Power_Classification) |
 
+## 社区贡献
+
+在 Lean 社区的黎曼猜想形式化项目中，Anchen0823 简化了周期数列求和与约化基的 Gram–Schmidt 证明。[两份上游 PR 与构建记录](https://github.com/Anchen-AI4Math/research-index#lean-社区贡献)
+
 ## 研究方向
 
 - 数论与分析：无理性、特殊常数、素数与多项式。 [奇数素数和 campaign：19 已认证、证明通过](https://prove2.me/missions/276f36e4-c119-430a-8ba3-94ec566f6249)，目标 3 继续开放。
