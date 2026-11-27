@@ -20,6 +20,8 @@
 
 在 Lean 社区的黎曼猜想形式化项目中，Anchen0823 简化了周期数列求和与约化基的 Gram–Schmidt 证明。[两份上游 PR 与构建记录](https://github.com/Anchen-AI4Math/research-index#lean-社区贡献)
 
+Anchen0823 为 P vs NP 协作题库完成了循环支撑上的傅里叶抵消估计。Lean 证明已合并。[上游 PR #44335](https://github.com/open-goat/pequalnp-proofs/pull/44335)
+
 ## 研究方向
 
 - 数论与分析：无理性、特殊常数、素数与多项式。 [奇数素数和 campaign：19 已认证、证明通过](https://prove2.me/missions/276f36e4-c119-430a-8ba3-94ec566f6249)，目标 3 继续开放。
